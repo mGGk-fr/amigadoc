@@ -17,3 +17,6 @@ Voici le parcours recommandé :
 7. Instructions de bases
 8. Instructions Copper
 9. Instructions Blitter
+10. A suivre....
+
+Vous voulez aider et contribuer à ce wiki ? Contactez moi pour obtenir les droits nécessaire : mggk[at]protonmail.com
