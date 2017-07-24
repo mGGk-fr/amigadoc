@@ -20,3 +20,5 @@ Voici le parcours recommandé :
 10. A suivre....
 
 Vous voulez aider et contribuer à ce wiki ? Contactez moi pour obtenir les droits nécessaire : mggk[at]protonmail.com
+
+Guillaume 'mGGk'
